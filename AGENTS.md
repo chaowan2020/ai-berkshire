@@ -41,6 +41,12 @@ validation tools. Keep compatibility with both Claude Code and Codex users.
 
 ## Research Quality Rules
 
+- Default research entry point is debate mode: use `/investment-team` for any
+  full company research. Use `/investment-research` only when the user asks for
+  a lighter single-agent run, and `/quality-screen` for quick elimination.
+  Every `/investment-team` run must produce all three artifacts: the team-lead
+  main report (never weakened), four per-master standalone mini-reports, and
+  the debate transcript log (`辩论实况`).
 - Before starting any research, run the `date` command to confirm today's
   date. Treat that date as the baseline for "latest" data (prices, market cap,
   most recent filings), and state the data cutoff date in the report header.
