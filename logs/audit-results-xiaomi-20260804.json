@@ -1,0 +1,14 @@
+[
+{"id":1,"label":"股价（08-03收盘）","reported_value":27.96,"fetched_value":27.96,"fetched_source":"雪球 01810 08-03收盘","fetched_value2":27.96,"fetched_source2":"富途 01810 08-03收盘"},
+{"id":5,"label":"PB","reported_value":2.35,"fetched_value":2.37,"fetched_source":"雪球 市净率","fetched_value2":2.39,"fetched_source2":"富途 市净率"},
+{"id":11,"label":"FY2021毛利率","reported_value":17.8,"fetched_value":17.75,"fetched_source":"stockanalysis financials","fetched_value2":17.75,"fetched_source2":"stockanalysis margins表"},
+{"id":15,"label":"FY2022毛利率","reported_value":17.0,"fetched_value":16.99,"fetched_source":"stockanalysis financials","fetched_value2":16.99,"fetched_source2":"stockanalysis margins表"},
+{"id":41,"label":"Q1 2026汽车及AI创新收入","reported_value":199.0,"fetched_value":199,"fetched_source":"华尔街见闻 Q1业绩报道","fetched_value2":199,"fetched_source2":"新华网客户端 Q1业绩稿"},
+{"id":42,"label":"Q1 2026汽车交付量","reported_value":80856,"fetched_value":80856,"fetched_source":"新华网 Q1业绩稿","fetched_value2":80856,"fetched_source2":"快科技/新浪 Q1报道"},
+{"id":46,"label":"手机ASP Q1 2026","reported_value":1310,"fetched_value":1310,"fetched_source":"公司公告(华尔街见闻快讯)","fetched_value2":1310,"fetched_source2":"界面新闻 Q1分析"},
+{"id":47,"label":"AIoT连接设备数","reported_value":11.19,"fetched_value":11.19,"fetched_source":"Q1业绩公告解读(sgpjbg)","fetched_value2":11.19,"fetched_source2":"公告转引"},
+{"id":54,"label":"现金储备","reported_value":2206,"fetched_value":2206,"fetched_source":"华尔街见闻 Q1报道","fetched_value2":2206,"fetched_source2":"公司Q1公告"},
+{"id":59,"label":"乐观情景目标价","reported_value":84.8,"fetched_value":84.8,"fetched_source":"tools/financial_rigor.py three-scenario 输出","fetched_value2":84.8,"fetched_source2":"工具复算"},
+{"id":64,"label":"中性情景较现价","reported_value":40.0,"fetched_value":39.7,"fetched_source":"tools/financial_rigor.py three-scenario 输出(+39.7%)","fetched_value2":39.7,"fetched_source2":"工具复算"},
+{"id":71,"label":"建仓建议价位","reported_value":27,"fetched_value":27,"fetched_source":"报告自身分析建议(非外部数据点)","fetched_value2":27,"fetched_source2":"同上"}
+]
